@@ -1,0 +1,73 @@
+.header{
+    display: flex;
+    justify-content:space-between;
+}
+.main{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+   
+
+}
+.boxinput{
+    width: 400px;
+    height: 200px;
+    border: black  solid 1px;
+}
+.up{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.down{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 110px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.vl {
+    border-left: 2px solid rgb(195, 195, 195);
+    height: 100%;
+    position: absolute;
+    left: 60%;
+}
+.segment{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between ;
+    margin-left: 50px;
+}
+.about{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.message{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.boxoutput{
+    width: 400px;
+    height: 150px;
+    border: black  solid 1px;
+    
+ 
+}
+.comment{
+    margin-left: 50px;
+}
+#mess{
+    margin-top: 0;
+
+}
